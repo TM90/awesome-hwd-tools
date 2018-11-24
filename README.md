@@ -33,6 +33,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ### Simulation
 
 [iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog Simulator
+[ghdl](https://github.com/ghdl/ghdl) - VHDL Simulator
 
 ### Synthesis
 
