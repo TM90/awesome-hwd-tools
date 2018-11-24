@@ -52,8 +52,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 [oaFileParser](https://github.com/EDDRSoftware/oaFileParser) - oaFile Parser
 
-[OpenRAM](https://github.com/VLSIDA/OpenRAM) - open-source SRAM Compiler
+### Layout Generation
 
+[BAG_framework](https://github.com/ucb-art/BAG_framework) - Berkeley Analog Generator
+
+[OpenRAM](https://github.com/VLSIDA/OpenRAM) - open-source SRAM Compiler
 
 ### Simulation
 
