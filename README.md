@@ -16,9 +16,11 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 [Chisel](https://github.com/freechipsproject/chisel3/) - Hardware Description Language embedded in Scala developed at UC Berkeley
 
-[MyHDL](https://github.com/myhdl/myhdl) - Python as a Hardware Description and Verification Lanugage
-
 [Magma](https://github.com/phanrahan/magma) - A Hardware Description Language embedded in Python
+
+[firrtl](https://github.com/freechipsproject/firrtl) - Intermediate representation for rtl (used by Chisel and Magma)
+
+[MyHDL](https://github.com/myhdl/myhdl) - Python as a Hardware Description and Verification Language
 
 [clash-lang](https://github.com/clash-lang/clash-compiler) - A Hardware Description Language written and inspired by Haskell
 
