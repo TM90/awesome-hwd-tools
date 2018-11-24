@@ -38,6 +38,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 [yosys](https://github.com/YosysHQ/yosys) - Synthesis Flow
 
+### Timing Analysis
+
+[OpenSTA](https://github.com/abk-openroad/OpenSTA) - static timing analysis
+
 ### Verification
 
 [SymbiYosys](https://github.com/YosysHQ/SymbiYosys) - formal verification flow and tool
@@ -57,6 +61,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 [BAG_framework](https://github.com/ucb-art/BAG_framework) - Berkeley Analog Generator
 
 [OpenRAM](https://github.com/VLSIDA/OpenRAM) - open-source SRAM Compiler
+
+[laygo](https://github.com/ucb-art/laygo) - layout with gridded objects
 
 ### Simulation
 
