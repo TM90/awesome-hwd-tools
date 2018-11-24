@@ -20,6 +20,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 [Magma](https://github.com/phanrahan/magma) - A Hardware Description Language embedded in Python
 
+[clash-lang](https://github.com/clash-lang/clash-compiler) - A Hardware Description Language written and inspired by Haskell
+
 ### Wave Viewers
 
 [gtkwave](http://gtkwave.sourceforge.net/) - GTK based waveform viewer
