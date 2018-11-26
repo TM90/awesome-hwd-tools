@@ -33,6 +33,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ### Simulation
 
 [iverilog](https://github.com/steveicarus/iverilog) - Icarus Verilog Simulator
+
 [ghdl](https://github.com/ghdl/ghdl) - VHDL Simulator
 
 ### Synthesis
@@ -42,6 +43,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 ### Timing Analysis
 
 [OpenSTA](https://github.com/abk-openroad/OpenSTA) - static timing analysis
+
 [OpenTimer](https://github.com/OpenTimer/OpenTimer) - timing analysis tool for vlsi systems
 ### Verification
 
