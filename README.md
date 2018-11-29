@@ -8,6 +8,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 [hdlConverter](https://github.com/Nic30/hdlConvertor) - Python System-Verilog/VHDL Parser
 
 [simpy](https://github.com/cristiklein/simpy) - discrite event based simulation framework
+
+[pyFDA](https://github.com/chipmuenk/pyFDA) - A python tool to design time discrete filters
+
 ### Modelling
 
 [PyMTL](https://github.com/cornell-brg/pymtl) - hardware modeling framework
