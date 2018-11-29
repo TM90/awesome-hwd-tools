@@ -59,6 +59,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 [oaFileParser](https://github.com/EDDRSoftware/oaFileParser) - oaFile Parser
 
+[scikit-rf](https://github.com/scikit-rf/scikit-rf) - RF and Microwave Design in scikit
+
 ### Layout Generation
 
 [BAG_framework](https://github.com/ucb-art/BAG_framework) - Berkeley Analog Generator
