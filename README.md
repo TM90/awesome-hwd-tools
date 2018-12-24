@@ -27,6 +27,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 [clash-lang](https://github.com/clash-lang/clash-compiler) - A Hardware Description Language written and inspired by Haskell
 
+A much more detailed and specific list for hardware description languages can be found at [drom/awesome-hdl](https://github.com/drom/awesome-hdl).
+
 ### Wave Viewers
 
 [gtkwave](http://gtkwave.sourceforge.net/) - GTK based waveform viewer
