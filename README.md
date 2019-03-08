@@ -1,5 +1,9 @@
 # awesome-hwd-tools
-A curated list of awesome open source hardware design tools
+A curated list of awesome open source hardware design tools with a focus on chip design.
+
+For electronic hardware tools without a focus chip design see:
+
+https://github.com/kitspace/awesome-electronics
 
 Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
