@@ -83,3 +83,8 @@ A much more detailed and specific list for hardware description languages can be
 [ngspice](http://ngspice.sourceforge.net/index.html) - Spice Simulator
 
 [pyspice](https://github.com/FabriceSalvaire/PySpice) - Simulating Circuits with Python
+
+## Documentation
+
+[SchemDraw](https://cdelker.bitbucket.io/SchemDraw/SchemDraw.html) - producing circuit diagrams with python
+
