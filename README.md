@@ -19,6 +19,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 [PyMTL](https://github.com/cornell-brg/pymtl) - hardware modeling framework
 
+[VSRTL](https://github.com/mortbopet/VSRTL) - Visual Simulation of Register Transfer Logic
+
 ### Hardware Description Languages
 
 [Chisel](https://github.com/freechipsproject/chisel3/) - Hardware Description Language embedded in Scala developed at UC Berkeley
