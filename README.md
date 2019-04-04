@@ -72,6 +72,9 @@ A much more detailed and specific list for hardware description languages can be
 
 [scikit-rf](https://github.com/scikit-rf/scikit-rf) - RF and Microwave Design in scikit
 
+[lcapy](https://github.com/mph-/lcapy) - Lcapy is a Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.
+
+
 ### Layout Generation
 
 [BAG_framework](https://github.com/ucb-art/BAG_framework) - Berkeley Analog Generator
