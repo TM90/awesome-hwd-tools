@@ -75,13 +75,15 @@ A much more detailed and specific list for hardware description languages can be
 [lcapy](https://github.com/mph-/lcapy) - Lcapy is a Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.
 
 
-### Layout Generation
+### Layout Generation/ Manipulation
 
 [BAG_framework](https://github.com/ucb-art/BAG_framework) - Berkeley Analog Generator
 
 [OpenRAM](https://github.com/VLSIDA/OpenRAM) - open-source SRAM Compiler
 
 [laygo](https://github.com/ucb-art/laygo) - layout with gridded objects
+
+.[klayout](https://github.com/KLayout/klayout) - scriptable Layout Viewer and Editor
 
 ### Simulation
 
