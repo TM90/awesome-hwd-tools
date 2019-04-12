@@ -81,9 +81,7 @@ A much more detailed and specific list for hardware description languages can be
 
 [OpenRAM](https://github.com/VLSIDA/OpenRAM) - open-source SRAM Compiler
 
-[laygo](https://github.com/ucb-art/laygo) - layout with gridded objects
-
-.[klayout](https://github.com/KLayout/klayout) - scriptable Layout Viewer and Editor
+[klayout](https://github.com/KLayout/klayout) - scriptable Layout Viewer and Editor
 
 ### Simulation
 
