@@ -89,6 +89,10 @@ A much more detailed and specific list for hardware description languages can be
 
 [pyspice](https://github.com/FabriceSalvaire/PySpice) - Simulating Circuits with Python
 
+### Mixed Signal Design 
+
+[mixedsim](https://github.com/Isotel/mixedsim) - A mixed signal simulation approach using ngspice and yosys providing a library mapping to spice
+
 ## Documentation
 
 [SchemDraw](https://cdelker.bitbucket.io/SchemDraw/SchemDraw.html) - producing circuit diagrams with python
