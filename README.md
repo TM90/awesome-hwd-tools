@@ -74,6 +74,7 @@ A much more detailed and specific list for hardware description languages can be
 
 [lcapy](https://github.com/mph-/lcapy) - Lcapy is a Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.
 
+[libresiliconprocess](https://github.com/leviathanch/libresiliconprocess) - A 1um open process specification
 
 ### Layout Generation/ Manipulation
 
