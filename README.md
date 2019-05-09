@@ -64,7 +64,9 @@ A much more detailed and specific list for hardware description languages can be
 
 [gdspy](https://github.com/heitzmann/gdspy) - manipulating GDSII files in Python
 
-[layoutSVG](https://github.com/jlj-ee/layoutSVG) - creating SVGs from Cadence Virtuoso Layouts
+[SPAM](https://github.com/rbzentrum/SPAM) - SPAM is a package management system for Cadence SKILL
+
+[ml2tikz](https://github.com/rbzentrum/ml2tikz) - Virtuoso layout to tikzpicture
 
 [SKILL_Tools](https://github.com/MatthewLoveQUB/SKILL_Tools) - Skill++ Tools including a test framework
 
