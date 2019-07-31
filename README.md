@@ -98,5 +98,5 @@ A much more detailed and specific list for hardware description languages can be
 
 ## Documentation
 
-[SchemDraw](https://cdelker.bitbucket.io/SchemDraw/SchemDraw.html) - producing circuit diagrams with python
+[SchemDraw](https://bitbucket.org/cdelker/schemdraw/src/master/) - producing circuit diagrams with python
 
