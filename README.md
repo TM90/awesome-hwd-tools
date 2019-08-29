@@ -56,9 +56,12 @@ A much more detailed and specific list for hardware description languages can be
 [OpenSTA](https://github.com/abk-openroad/OpenSTA) - static timing analysis
 
 [OpenTimer](https://github.com/OpenTimer/OpenTimer) - timing analysis tool for vlsi systems
+
 ### Verification
 
 [SymbiYosys](https://github.com/YosysHQ/SymbiYosys) - formal verification flow and tool
+
+[cocotb](https://github.com/cocotb/cocotb) - Creating Verilog/VHDL testbenches in python 
 
 ## Full Custom Design
 
