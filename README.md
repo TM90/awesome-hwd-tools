@@ -61,7 +61,7 @@ A much more detailed and specific list for hardware description languages can be
 
 [SymbiYosys](https://github.com/YosysHQ/SymbiYosys) - formal verification flow and tool
 
-[cocotb](https://github.com/cocotb/cocotb) - Creating Verilog/VHDL testbenches in python 
+[cocotb](https://github.com/cocotb/cocotb) - Creating Verilog/VHDL testbenches with python 
 
 ## Full Custom Design
 
@@ -95,7 +95,7 @@ A much more detailed and specific list for hardware description languages can be
 
 [ngspice](http://ngspice.sourceforge.net/index.html) - Spice Simulator
 
-[pyspice](https://github.com/FabriceSalvaire/PySpice) - Simulating Circuits with Python
+[pyspice](https://github.com/FabriceSalvaire/PySpice) - Simulating and creating Spice Circuits with Python
 
 ### Mixed Signal Design 
 
