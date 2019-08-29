@@ -78,6 +78,8 @@ A much more detailed and specific list for hardware description languages can be
 
 [libresiliconprocess](https://github.com/leviathanch/libresiliconprocess) - A 1um open process specification
 
+[PADRING](https://github.com/YosysHQ/padring) - A padring generator for asics
+
 ### Layout Generation/ Manipulation
 
 [BAG_framework](https://github.com/ucb-art/BAG_framework) - Berkeley Analog Generator
