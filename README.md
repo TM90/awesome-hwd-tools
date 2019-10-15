@@ -67,6 +67,8 @@ A much more detailed and specific list for hardware description languages can be
 
 [heitzmann/gdspy](https://github.com/heitzmann/gdspy) - manipulating GDSII files in Python
 
+[unihd-cag/skillbridge](https://github.com/unihd-cag/skillbridge) - A seamless python to Cadence Virtuoso Skill interface
+
 [rbzentrum/SPAM](https://github.com/rbzentrum/SPAM) - SPAM is a package management system for Cadence SKILL
 
 [rbzentrum/ml2tikz](https://github.com/rbzentrum/ml2tikz) - Virtuoso layout to tikzpicture
