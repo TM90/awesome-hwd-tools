@@ -17,7 +17,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 ### Modelling
 
-[cornell-brg/PyMTL](https://github.com/cornell-brg/pymtl) - hardware modeling framework
+[cornell-brg/pymtl3](https://github.com/cornell-brg/pymtl3) - hardware modeling framework
 
 [mortbopet/VSRTL](https://github.com/mortbopet/VSRTL) - Visual Simulation of Register Transfer Logic
 
