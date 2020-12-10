@@ -15,6 +15,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 [chipmuenk/pyFDA](https://github.com/chipmuenk/pyFDA) - A python tool to design time discrete filters
 
+[efabless/openlane](https://github.com/efabless/openlane) - Automated RTL to GDS flow based on openRoad, Yosys and more...
+
 ### Modelling
 
 [cornell-brg/pymtl3](https://github.com/cornell-brg/pymtl3) - hardware modeling framework
@@ -88,6 +90,8 @@ A much more detailed and specific list for hardware description languages can be
 [mph-/lcapy](https://github.com/mph-/lcapy) - Lcapy is a Python package for linear circuit analysis. It uses SymPy for symbolic mathematics.
 
 [YosysHQ/PADRING](https://github.com/YosysHQ/padring) - A padring generator for asics
+
+[nitram2342](https://github.com/nitram2342/degate) - Tool for VLSI reverse engineering
 
 ### Layout Generation/ Manipulation
 
