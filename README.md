@@ -17,6 +17,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 [efabless/openlane](https://github.com/efabless/openlane) - Automated RTL to GDS flow based on openRoad, Yosys and more...
 
+[ahmed-agiza/EDAViewer](https://github.com/ahmed-agiza/EDAViewer) - EDAV is a cloud-based open-source viewer for electronic design automation (EDA) design files (LEF, DEF)
+
+
 ### Modelling
 
 [cornell-brg/pymtl3](https://github.com/cornell-brg/pymtl3) - hardware modeling framework
