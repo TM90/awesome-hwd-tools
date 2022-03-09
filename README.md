@@ -11,7 +11,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 [Nic30/hdlConverter](https://github.com/Nic30/hdlConvertor) - Python System-Verilog/VHDL Parser
 
-[christiklein/simpy](https://github.com/cristiklein/simpy) - discrite event based simulation framework
+[christiklein/simpy](https://gitlab.com/team-simpy/simpy) - discrite event based simulation framework
 
 [chipmuenk/pyFDA](https://github.com/chipmuenk/pyFDA) - A python tool to design time discrete filters
 
