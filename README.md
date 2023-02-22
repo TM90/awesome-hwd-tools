@@ -94,7 +94,7 @@ A much more detailed and specific list for hardware description languages can be
 
 [YosysHQ/PADRING](https://github.com/YosysHQ/padring) - A padring generator for asics
 
-[nitram2342](https://github.com/nitram2342/degate) - Tool for VLSI reverse engineering
+[DegateCommunity/Degate](https://github.com/DegateCommunity/Degate) - Tool for VLSI reverse engineering
 
 ### Layout Generation/ Manipulation
 
