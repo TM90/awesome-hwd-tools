@@ -32,7 +32,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 [phanrahan/Magma](https://github.com/phanrahan/magma) - A Hardware Description Language embedded in Python
 
-[freechipsproject/firrtl](https://github.com/freechipsproject/firrtl) - Intermediate representation for rtl (used by Chisel and Magma)
+[llvm/circt](https://github.com/llvm/circt) - Intermediate representation for rtl (used by Chisel)
 
 [myhdl/MyHDL](https://github.com/myhdl/myhdl) - Python as a Hardware Description and Verification Language
 
