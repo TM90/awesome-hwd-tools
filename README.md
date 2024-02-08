@@ -96,6 +96,8 @@ A much more detailed and specific list for hardware description languages can be
 
 [DegateCommunity/Degate](https://github.com/DegateCommunity/Degate) - Tool for VLSI reverse engineering
 
+[cap1tan/wafermap](https://github.com/cap1tan/wafermap) - A python package to plot maps of semiconductor wafers
+
 ### Layout Generation/ Manipulation
 
 [ucb-art/BAG_framework](https://github.com/ucb-art/BAG_framework) - Berkeley Analog Generator
