@@ -80,9 +80,9 @@ A much more detailed and specific list for hardware description languages can be
 
 [unihd-cag/skillbridge](https://github.com/unihd-cag/skillbridge) - A seamless python to Cadence Virtuoso Skill interface
 
-[rbzentrum/SPAM](https://github.com/rbzentrum/SPAM) - SPAM is a package management system for Cadence SKILL
+[electronics-and-drives/SPAM](https://github.com/electronics-and-drives/SPAM) - SPAM is a package management system for Cadence SKILL
 
-[rbzentrum/ml2tikz](https://github.com/rbzentrum/ml2tikz) - Virtuoso layout to tikzpicture
+[electronics-and-drives/ml2tikz](https://github.com/electronics-and-drives/ml2tikz) - Virtuoso layout to tikzpicture
 
 [MatthewLoveQUB/SKILL_Tools](https://github.com/MatthewLoveQUB/SKILL_Tools) - Skill++ Tools including a test framework
 
