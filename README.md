@@ -76,7 +76,7 @@ A much more detailed and specific list for hardware description languages can be
 
 ## Full Custom Design
 
-[heitzmann/gdspy](https://github.com/heitzmann/gdspy) - manipulating GDSII files in Python
+[heitzmann/gdsstk](https://github.com/heitzmann/gdstk) - Gdstk (GDSII Tool Kit) is a C++/Python library for creation and manipulation of GDSII and OASIS files.
 
 [unihd-cag/skillbridge](https://github.com/unihd-cag/skillbridge) - A seamless python to Cadence Virtuoso Skill interface
 
