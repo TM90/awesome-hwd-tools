@@ -98,6 +98,8 @@ A much more detailed and specific list for hardware description languages can be
 
 [cap1tan/wafermap](https://github.com/cap1tan/wafermap) - A python package to plot maps of semiconductor wafers
 
+[tub-msc/ordec](https://github.com/tub-msc/ordec) -  Custom IC Design Platform
+
 ### Layout Generation/ Manipulation
 
 [ucb-art/BAG_framework](https://github.com/ucb-art/BAG_framework) - Berkeley Analog Generator
